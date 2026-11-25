@@ -1,0 +1,33 @@
+{
+  "name": "Aviation Analytics",
+  "dataColors": ["#4C78A8", "#E45756", "#59A14F", "#F28E2B", "#72B7B2", "#B279A2", "#FF9DA6", "#9D755D"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#4C78A8",
+  "good": "#59A14F",
+  "neutral": "#F28E2B",
+  "bad": "#E45756",
+  "maximum": "#E45756",
+  "center": "#F2CF5B",
+  "minimum": "#59A14F",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#2B2B2B" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#2B2B2B" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#2B2B2B" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#2B2B2B" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontSize": 13, "fontColor": { "solid": { "color": "#2B2B2B" } } }],
+        "border": [{ "show": false }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F4F6F8" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

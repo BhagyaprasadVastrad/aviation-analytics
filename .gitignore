@@ -1,0 +1,10 @@
+data/raw/*
+data/processed/*
+data/sample/*
+*.duckdb
+.ipynb_checkpoints/
+__pycache__/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/*.joblib
+powerbi/data/
