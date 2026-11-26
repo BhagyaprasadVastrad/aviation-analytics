@@ -1,0 +1,8 @@
+day_of_week,day_name,flights,dep_delay_rate_pct,cancellation_rate_pct
+1,Monday,363955,18.91,0.42
+2,Tuesday,305354,16.34,0.74
+3,Wednesday,291720,17.36,0.94
+4,Thursday,341097,19.68,1.12
+5,Friday,323440,21.05,0.76
+6,Saturday,296494,20.55,0.7
+7,Sunday,381496,22.27,0.96

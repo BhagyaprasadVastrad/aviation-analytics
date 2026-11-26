@@ -1,0 +1,5 @@
+quarter,month,month_name,flights,on_time_pct,avg_dep_delay_min,avg_arr_delay_min,dep_delay_rate_pct,cancellation_rate_pct,diversion_rate_pct
+1,2,February,519221,84.08,7.44,0.59,15.49,0.58,0.18
+2,6,June,611132,75.06,16.9,11.81,25.31,1.29,0.32
+3,9,September,582622,84.49,6.64,1.0,15.07,0.6,0.15
+4,12,December,590581,78.85,13.53,7.12,21.63,0.7,0.27

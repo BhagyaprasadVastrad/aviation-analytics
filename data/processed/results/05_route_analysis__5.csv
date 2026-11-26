@@ -1,0 +1,4 @@
+distance_band,flights,dep_delay_rate_pct
+1 Short (<500 mi),780350,18.1
+2 Medium (500-1499 mi),1207456,20.31
+3 Long (1500+ mi),297222,20.29

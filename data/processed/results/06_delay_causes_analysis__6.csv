@@ -1,0 +1,13 @@
+month,month_name,reason,cancellations
+2,February,Weather,1904
+2,February,Carrier,711
+2,February,NAS,387
+6,June,Weather,3923
+6,June,NAS,2018
+6,June,Carrier,1935
+9,September,Weather,2580
+9,September,Carrier,637
+9,September,NAS,282
+12,December,Weather,3122
+12,December,Carrier,737
+12,December,NAS,292

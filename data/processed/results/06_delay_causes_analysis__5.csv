@@ -1,0 +1,5 @@
+inbound_status,next_flights,avg_next_dep_delay_min,next_dep_delay_rate_pct
+1 Early inbound,1382124,1.92,8.91
+2 On-time inbound,376467,7.68,17.14
+3 Late inbound (15-59),283281,22.09,50.18
+4 Very late inbound (60+),133144,68.48,62.53

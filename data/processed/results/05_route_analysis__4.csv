@@ -1,0 +1,5 @@
+quarter,season,month,month_name,flights,dep_delay_rate_pct,cancellation_rate_pct
+1,Winter,2,February,519221,15.49,0.58
+2,Summer,6,June,611132,25.31,1.29
+3,Autumn,9,September,582622,15.07,0.6
+4,Winter,12,December,590581,21.63,0.7

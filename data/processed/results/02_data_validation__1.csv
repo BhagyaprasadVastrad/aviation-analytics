@@ -1,0 +1,6 @@
+tbl,n
+fact_flights,2303556
+dim_airline,15
+dim_airport,346
+dim_date,335
+dim_route,6584
